@@ -1,7 +1,8 @@
 /****************************************************************************************************/
 /* CASO-19957																						*/
 /* 27/00/2020 Creado por EVOL						 												*/
-/* Tabla para el embargo sunat																		*/
+/* Tabla para el embargo sunat	
+/* Esto est una prueba
 /****************************************************************************************************/
   CREATE TABLE "XXBOL"."TS_AP_DESB_FACT_2" 
    (	"INVOICE_ID" VARCHAR2(100 BYTE), 
